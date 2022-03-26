@@ -14,7 +14,7 @@ Me chamo **Isaac Garcia**, tenho 21 anos. Sou brasileiro residente no interior d
   
  | Curso | Horas | Local | 
  | :---: | :---: | :---: | 
- | Sistema de Informação | 3000 | UNIFEB | 
+ | Sistema de Informação | 3180 | UNIFEB | 
 
   
  </details>
