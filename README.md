@@ -15,6 +15,10 @@ Me chamo **Isaac Garcia**, tenho 21 anos. Sou brasileiro residente no interior d
  | Curso | Horas | Local | 
  | :---: | :---: | :---: | 
  | Sistema de Informação | 3180 | UNIFEB | 
+ | Técnico em Informática | 1600 | ETEC | 
+ | Informática Básica | 80 | ETEC |
+ | Desenvolvimento Fluig | 40 | TOTVS |
+ | Desenvolvimento RPA | 40 | UDEMY |
 
   
  </details>
