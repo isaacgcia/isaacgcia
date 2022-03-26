@@ -8,3 +8,13 @@ Me chamo **Isaac Garcia**, tenho 21 anos. Sou brasileiro residente no interior d
 - 🎓 Graduado em Sistemas de Informação.
 - 🎓 Curso completo de desenvolvimento RPA
 
+<details> 
+ <summary>Lista de cursos</summary> 
+  
+  
+ | Curso | Horas | Local | 
+ | :---: | :---: | :---: | 
+ | Sistema de Informação | 3000 | UNIFEB | 
+
+  
+ </details>
